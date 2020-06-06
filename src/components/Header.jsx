@@ -4,7 +4,7 @@ function Header() {
 
     return(
         <h1 className="encabezado">Tienda
-        Virtual</h1>
+        Virtual Perrona</h1>
     )
 }
 
