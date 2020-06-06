@@ -1,10 +1,8 @@
 import React from 'react'
 
-function Header() {
-
+function Header({titulo}) {
     return(
-        <h1 className="encabezado">Tienda
-        Virtual Perrona</h1>
+    <h1 className="encabezado">{titulo}</h1>
     )
 }
 
